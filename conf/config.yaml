@@ -1,0 +1,38 @@
+# hh_api:
+#   text: "data engineer"      
+#   area: 2                      # Санкт-Петербург
+#   search_field: "name"             
+
+# database:
+#   url: "postgresql+psycopg2://postgres:password@localhost:5432/hh_etl"
+
+# logging:
+#   level: "INFO"
+#   file: "tmp.text"
+
+# telegram:
+#   token: "token"    
+#   chat_id: "chat_id"  
+
+# storage:
+#   parquet_path: "./data/"
+#   compression: "snappy"
+
+
+
+database:
+  url: "postgresql://postgres:3110@localhost:5432/hh_etl"
+
+hh_api:
+  text: "СБЕР"
+  area: 1
+  search_field: "company_name"
+  items_on_page: 20
+
+telegram:
+  token: "token"
+  chat_id: "chat_id"
+
+storage:
+  parquet_path: "./data/"
+  compression: "snappy"

@@ -1,0 +1,56 @@
+2026-04-10 02:31:29,809 - hh_search - INFO - [3025029a-003c-4dbf-9ac5-f4bf77ab5834] Searching vacancies from 01.01.2026 00:00:00 (etl_id=3025029a-003c-4dbf-9ac5-f4bf77ab5834)
+2026-04-10 02:31:30,760 - hh_search - INFO - [3025029a-003c-4dbf-9ac5-f4bf77ab5834] Processing page 0
+2026-04-10 02:31:33,837 - hh_search - INFO - [3025029a-003c-4dbf-9ac5-f4bf77ab5834] Processing page 1
+2026-04-10 02:31:34,734 - hh_search - INFO - [3025029a-003c-4dbf-9ac5-f4bf77ab5834] Processing page 2
+2026-04-10 02:31:35,786 - hh_search - INFO - [3025029a-003c-4dbf-9ac5-f4bf77ab5834] Processing page 3
+2026-04-10 02:31:36,794 - hh_search - INFO - [3025029a-003c-4dbf-9ac5-f4bf77ab5834] Processing page 4
+2026-04-10 02:31:37,643 - hh_search - INFO - [3025029a-003c-4dbf-9ac5-f4bf77ab5834] Processing page 5
+2026-04-10 02:31:38,648 - hh_search - INFO - [3025029a-003c-4dbf-9ac5-f4bf77ab5834] Processing page 6
+2026-04-10 02:31:39,473 - hh_search - INFO - [3025029a-003c-4dbf-9ac5-f4bf77ab5834] Processing page 7
+2026-04-10 02:31:40,222 - hh_search - INFO - [3025029a-003c-4dbf-9ac5-f4bf77ab5834] Processing page 8
+2026-04-10 02:31:41,187 - hh_search - INFO - [3025029a-003c-4dbf-9ac5-f4bf77ab5834] Processing page 9
+2026-04-10 02:31:42,403 - hh_search - INFO - [3025029a-003c-4dbf-9ac5-f4bf77ab5834] Processing page 10
+2026-04-10 02:31:43,469 - hh_search - INFO - [3025029a-003c-4dbf-9ac5-f4bf77ab5834] Processing page 11
+2026-04-10 02:31:44,238 - hh_search - INFO - [3025029a-003c-4dbf-9ac5-f4bf77ab5834] Processing page 12
+2026-04-10 02:31:45,128 - hh_search - INFO - [3025029a-003c-4dbf-9ac5-f4bf77ab5834] Processing page 13
+2026-04-10 02:31:46,159 - hh_search - INFO - [3025029a-003c-4dbf-9ac5-f4bf77ab5834] Processing page 14
+2026-04-10 02:31:46,947 - hh_search - INFO - [3025029a-003c-4dbf-9ac5-f4bf77ab5834] Processing page 15
+2026-04-10 02:31:47,975 - hh_search - INFO - [3025029a-003c-4dbf-9ac5-f4bf77ab5834] Processing page 16
+2026-04-10 02:31:48,793 - hh_search - INFO - [3025029a-003c-4dbf-9ac5-f4bf77ab5834] Processing page 17
+2026-04-10 02:31:49,671 - hh_search - INFO - [3025029a-003c-4dbf-9ac5-f4bf77ab5834] Processing page 18
+2026-04-10 02:31:50,578 - hh_search - INFO - [3025029a-003c-4dbf-9ac5-f4bf77ab5834] Processing page 19
+2026-04-10 02:31:51,610 - hh_search - INFO - [3025029a-003c-4dbf-9ac5-f4bf77ab5834] Processing page 20
+2026-04-10 02:31:52,442 - hh_search - INFO - [3025029a-003c-4dbf-9ac5-f4bf77ab5834] Processing page 21
+2026-04-10 02:31:53,656 - hh_search - INFO - [3025029a-003c-4dbf-9ac5-f4bf77ab5834] Processing page 22
+2026-04-10 02:31:54,548 - hh_search - INFO - [3025029a-003c-4dbf-9ac5-f4bf77ab5834] Processing page 23
+2026-04-10 02:31:55,480 - hh_search - INFO - [3025029a-003c-4dbf-9ac5-f4bf77ab5834] Processing page 24
+2026-04-10 02:31:56,807 - hh_search - INFO - [3025029a-003c-4dbf-9ac5-f4bf77ab5834] Processing page 25
+2026-04-10 02:31:57,973 - hh_search - INFO - [3025029a-003c-4dbf-9ac5-f4bf77ab5834] Processing page 26
+2026-04-10 02:31:59,742 - hh_search - INFO - [3025029a-003c-4dbf-9ac5-f4bf77ab5834] Processing page 27
+2026-04-10 02:32:00,609 - hh_search - INFO - [3025029a-003c-4dbf-9ac5-f4bf77ab5834] Processing page 28
+2026-04-10 02:32:01,512 - hh_search - INFO - [3025029a-003c-4dbf-9ac5-f4bf77ab5834] Processing page 29
+2026-04-10 02:32:02,684 - hh_search - INFO - [3025029a-003c-4dbf-9ac5-f4bf77ab5834] Processing page 30
+2026-04-10 02:32:03,484 - hh_search - INFO - [3025029a-003c-4dbf-9ac5-f4bf77ab5834] Processing page 31
+2026-04-10 02:32:04,555 - hh_search - INFO - [3025029a-003c-4dbf-9ac5-f4bf77ab5834] Processing page 32
+2026-04-10 02:32:05,509 - hh_search - INFO - [3025029a-003c-4dbf-9ac5-f4bf77ab5834] Processing page 33
+2026-04-10 02:32:06,553 - hh_search - INFO - [3025029a-003c-4dbf-9ac5-f4bf77ab5834] Processing page 34
+2026-04-10 02:32:07,964 - hh_search - INFO - [3025029a-003c-4dbf-9ac5-f4bf77ab5834] Processing page 35
+2026-04-10 02:32:09,033 - hh_search - INFO - [3025029a-003c-4dbf-9ac5-f4bf77ab5834] Processing page 36
+2026-04-10 02:32:09,979 - hh_search - INFO - [3025029a-003c-4dbf-9ac5-f4bf77ab5834] Processing page 37
+2026-04-10 02:32:10,925 - hh_search - INFO - [3025029a-003c-4dbf-9ac5-f4bf77ab5834] Processing page 38
+2026-04-10 02:32:11,999 - hh_search - INFO - [3025029a-003c-4dbf-9ac5-f4bf77ab5834] Processing page 39
+2026-04-10 02:32:13,101 - hh_search - INFO - [3025029a-003c-4dbf-9ac5-f4bf77ab5834] Processing page 40
+2026-04-10 02:32:13,998 - hh_search - INFO - [3025029a-003c-4dbf-9ac5-f4bf77ab5834] Processing page 41
+2026-04-10 02:32:15,027 - hh_search - INFO - [3025029a-003c-4dbf-9ac5-f4bf77ab5834] Processing page 42
+2026-04-10 02:32:15,898 - hh_search - INFO - [3025029a-003c-4dbf-9ac5-f4bf77ab5834] Processing page 43
+2026-04-10 02:32:16,672 - hh_search - INFO - [3025029a-003c-4dbf-9ac5-f4bf77ab5834] Processing page 44
+2026-04-10 02:32:17,564 - hh_search - INFO - [3025029a-003c-4dbf-9ac5-f4bf77ab5834] Processing page 45
+2026-04-10 02:32:18,766 - hh_search - INFO - [3025029a-003c-4dbf-9ac5-f4bf77ab5834] Processing page 46
+2026-04-10 02:32:19,665 - hh_search - INFO - [3025029a-003c-4dbf-9ac5-f4bf77ab5834] Processing page 47
+2026-04-10 02:32:20,939 - hh_search - INFO - [3025029a-003c-4dbf-9ac5-f4bf77ab5834] Processing page 48
+2026-04-10 02:32:21,756 - hh_search - INFO - [3025029a-003c-4dbf-9ac5-f4bf77ab5834] <b>Результаты поиска вакансий (etl_id=3025029a-003c-4dbf-9ac5-f4bf77ab5834)</b>
+Начало поиска: 2026-04-09 23:31:29.492086+00:00
+Обработано страниц: 49
+Новых вакансий: 961
+Время выполнения: 52 секунды
+2026-04-10 02:32:31,824 - hh_search - WARNING - [3025029a-003c-4dbf-9ac5-f4bf77ab5834] Failed to send Telegram message (ignoring): HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bottoken/sendMessage (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001E8BC0AF690>, 'Connection to api.telegram.org timed out. (connect timeout=10)'))
